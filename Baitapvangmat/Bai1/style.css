@@ -1,0 +1,162 @@
+body {
+    padding: 10px;
+    background-color: white;
+}
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.facebook {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    float: right;
+}
+.menu ul li {
+    display: inline;
+}
+.menu ul li a img{
+    width: 30%;
+}
+
+#banner {
+    position: relative;
+    display:inline-block;
+    width: 100%;
+    height: auto;
+}
+
+#banner ul {
+    list-style: none;
+    width: 70% !important;
+}
+
+#banner ul.row li a.btn17 {
+    background: #ccc;
+    border-radius: 6px;
+    border: solid 1px #999;
+    width: 100%;
+    padding: 20px 10px;
+    margin: 10px 20px;
+}
+
+#banner ul.row li {
+    font-weight: bold;
+    color: #000;
+    font-size: 115%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    opacity: 0.7;
+}
+
+#banner ul.row {
+    position: absolute;
+    bottom: 20px;
+    align-self: center;
+    width: 80%;
+    margin: auto;
+}
+
+.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+    float: left;
+}
+
+.col-lg-3 {
+    width: 25%;
+}
+
+a, a:hover, a:link, a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+
+element.style {
+    height: 158px;
+}
+
+#column1 {
+    margin-bottom: 30px;
+}
+
+#column1 h2 strong {
+    color: #e74c3c; 
+}
+
+#column1 h2 span {
+    background-color: #fff;
+    padding: 0 10px;
+}
+
+#column1 h2 {
+    text-align: center;
+    color: #37474f;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.table {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+
+table {
+    background-color: transparent;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+#column2 img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#column2 h2 strong {
+    color: #e74c3c; 
+}
+
+#column2 h2 span {
+    background-color: #fff;
+    padding: 0 10px;
+}
+
+#column2 h2 {
+    text-align: center;
+    color: #37474f;
+    font-weight: bold;
+    font-size: 24px;
+}
+#column2 h4 {
+    margin: 1em 0;
+    padding: 0.5em 1em;
+    background: Lavenderblush;
+    box-shadow: 0 0 4px rgb(0 0 0 / 23%);
+}
+
+#column2 h2, h4, h6 {
+    line-height: 1.4em;
+}
+
+h4, .h4 {
+    font-size: 18px;
+}
+
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
+    font-weight: normal;
+    line-height: 1;
+    color: #777;
+}
+
+.red {
+    color: #CC0033;
+}
